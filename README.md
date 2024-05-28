@@ -22,6 +22,9 @@ Blender
 
 3d coat
 
+Siemens NX
+
+
 ### 建筑设计类软件：
 
 AutoCAD/天正
@@ -45,6 +48,12 @@ Unity
 Axure
 
 Pixso
+
+### 办公类软件
+
+Wiznote
+
+腾讯文档
 
 ### 直播类软件
 
