@@ -5,13 +5,15 @@ StreamDeck生产力预设
 
 ### Adobe全家桶
 
-Illustrator
+Adobe Illustrator
 
-Photoshop
+Adobe Photoshop
 
-XD
+Adobe XD
 
-Substance Designer
+Adobe Substance 3D Designer
+
+GIMP
 
 
 ### 建模/三维雕刻类软件：
@@ -23,6 +25,8 @@ Blender
 3d coat
 
 Siemens NX
+
+FreeCAD 1.0
 
 
 ### 建筑设计类软件：
@@ -37,11 +41,17 @@ Rhino
 
 Grasshopper
 
+EasyBIM
+
 ### 游戏引擎
 
 UE5
 
 Unity
+
+Godot(Comming)
+
+Leadwerks 5
 
 ### UX类软件
 
@@ -49,12 +59,12 @@ Axure
 
 Pixso
 
+Figma
+
 ### 办公类软件
 
 Wiznote
 
 腾讯文档
 
-### 直播类软件
-
-OBS
+飞书
